@@ -1,0 +1,19 @@
+Lectura - City-Geo-Location
+
+City Geolocation
+En las próximas clases estaremos usando una API para 
+obtener las coordenadas de una ciudad en base al nombre 
+que recibamos como argumento, por lo que les pido que vayan a este
+ sitio web y se registren, es totalmente gratuito.
+
+City-geo-location-lookup - API 
+Ruta : https://rapidapi.com/dev132/api/city-geo-location-lookup
+
+
+
+En la siguiente clase enseñaré cómo obtener tu API key y usarlo, pero es bueno pueden ir adelantando un poco.
+
+
+PEticiones : 
+ npm axios =  funciona en base a promesas
+ npm reques = funciona en base a callbax
